@@ -12,3 +12,7 @@ He is a Jedi who defines himself as straight. He has a degree in medicine. He is
 He grew up in a middle class neighbourhood. After his mother died when he was young, he was raised by his father
 
 He is currently married to Maureen Erika Quinn. Maureen is 13 years older than him and works as a sales assistant.
+
+SFSDFSDFDSFF sdfasfadsf
+
+asdfasdf
