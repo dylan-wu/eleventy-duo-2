@@ -15,6 +15,7 @@ body::-webkit-scrollbar {
 body {
   scrollbar-width: thin;
   scrollbar-color: color-mod(var(--color) alpha(90%)) var(--background);
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   height: 100%;
 }
 
