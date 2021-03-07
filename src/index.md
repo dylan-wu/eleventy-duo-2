@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 'Dylan's Blog'
+title: "Dylan's Blog"
 ---
 
 # Welcome to My Blog
