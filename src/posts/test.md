@@ -1,6 +1,6 @@
 ---
 title: The End.
-date: 
+date: 2021-03-05T20:00:00Z
 tags: []
 description: The first post on this blog.
 
