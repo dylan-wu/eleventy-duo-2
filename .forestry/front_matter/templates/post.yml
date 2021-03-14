@@ -15,4 +15,5 @@ fields:
   name: description
   label: description
 pages:
+- src/posts/sounds-of-languages.md
 - src/posts/test.md
