@@ -15,5 +15,6 @@ fields:
   name: description
   label: description
 pages:
+- src/posts/question-everything-truth-you-shall-find.md
 - src/posts/sounds-of-languages.md
 - src/posts/test.md
