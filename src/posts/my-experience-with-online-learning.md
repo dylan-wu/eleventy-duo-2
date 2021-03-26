@@ -25,4 +25,4 @@ That's why I'm creating a course and SaaS project to help students get the onlin
 
 Just imagine if every high schooler learned Calculus, or American History, or English Composition, or a Foreign language online, and for free. If you wanna keep up with my progress, you can checkout my Twitter here: [https://twitter.com/DylanWu](https://twitter.com/DylanWu "https://twitter.com/DylanWu")
 
-Thanks for reading, if you enjoyed, let me know! My twitter DMs are always open :smile:
+Thanks for reading, if you enjoyed, let me know! My twitter DMs are always open 😊
