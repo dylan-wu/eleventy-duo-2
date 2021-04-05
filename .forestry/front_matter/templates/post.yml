@@ -15,6 +15,7 @@ fields:
   name: description
   label: description
 pages:
+- src/posts/learning-mathematics-logic-and-reasoning.md
 - src/posts/my-experience-with-online-learning.md
 - src/posts/question-everything-truth-you-shall-find.md
 - src/posts/sounds-of-languages.md
