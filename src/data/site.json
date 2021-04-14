@@ -1,10 +1,10 @@
 {
-  "name": "Dylan's Blog",
-  "description": "Dylan's Blog",
+  "name": "Dylan Wu",
+  "description": "Personal site of Dylan Wu",
   "url": "https://dylanwu.com",
   "author": {
     "name": "Dylan Wu",
-    "email": "dylanwu@live.com",
+    "email": "hey@dylanwu.com",
     "twitterHandle": "dylanwu"
   },
   "defaultSocialImage": "/images/default-social-image.png",
