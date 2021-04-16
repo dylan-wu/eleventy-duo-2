@@ -3,8 +3,8 @@ title: Learning Mathematics, Logic and Reasoning
 date: 2021-04-05T18:35:38Z
 tags: []
 description: ''
-
 ---
+
 Mathematics is one of those subjects that I think people people often overlook, the number of times that I've heard classmates and friends say something along the lines of "Oh, I'm just not a math person is staggering.
 
 While it certainly is true that there are some people who are born with a higher aptitude for mathematics, just as there are people born with a higher aptitude for any subject, I believe that the fact that we have so many students today who are wilting in their mathematical ability is a sort of tragedy.
