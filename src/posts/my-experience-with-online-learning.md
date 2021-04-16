@@ -3,8 +3,8 @@ title: My experience with online learning
 date: 2021-03-25T05:00:00Z
 tags: []
 description: ''
-
 ---
+
 When quarantine hit, a lot of my friends were at odds with the online format of their classes. Online classes were clunky, and many students were, and still are ill equipped to handle the responsibilities that come with being able to learn online.
 
 In a way though, I think online classes might have been a blessing in disguise, for some, at least.

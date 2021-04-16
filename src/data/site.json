@@ -28,6 +28,11 @@
       "text": "Projects",
       "url": "/projects",
       "external": false
+    },
+    {
+      "text": "Education",
+      "url": "/education",
+      "external": false
     }
   ],
   "socialLinks": [
